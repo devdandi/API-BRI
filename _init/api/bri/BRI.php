@@ -49,7 +49,7 @@ class BRI
         $signPayload = hash_hmac('sha256', $payloads, $this->private_key, true);
         return base64_encode($signPayload);
     }
-    function checkInqiry()
+    function checkInquiry()
     {
         $NoRek = "888801000157508";
         $secret = $this->private_key;
@@ -82,4 +82,5 @@ class BRI
         curl_close($chGet);
         return $resultGet;
     }
+
 }
