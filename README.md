@@ -6,7 +6,7 @@
 <hr>
 <h3>Information</h3>
 <li>Official API from bri bank</li>
-<li>Official API from bca bank</li>
+<li>Official API from bca bank: coming soon</li>
 <li>Official API from mandiri bank: coming soon</li>
 <hr>
 
