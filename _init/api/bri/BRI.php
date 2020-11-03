@@ -3,8 +3,8 @@
 class BRI 
 {
     protected $url ="https://sandbox.partner.api.bri.co.id/oauth/client_credential/accesstoken?grant_type=client_credentials";
-    protected $private_key = "oYaWQBSZqZo9H4LZ";
-    protected $customer_key = "SGQyczGM4jBkZZrlICJ0hFf7FgpqfyPj";
+    protected $private_key = "";
+    protected $customer_key = "";
 
     public $path;
     public $verb;
